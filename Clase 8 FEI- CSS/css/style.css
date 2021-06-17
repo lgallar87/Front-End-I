@@ -1,0 +1,32 @@
+
+header { background-image: url( https://i.pinimg.com/564x/0c/b0/3a/0cb03a6c15e204b068228f71a261696d.jpg);
+
+background-size: center;
+
+width: 200;
+height: 200;
+background-repeat: no-repeat;
+}
+
+
+#link { color: rgb(136, 72, 12);
+    opacity: 0.9;
+    font-family: 'Roboto', sans-serif;
+     
+     
+
+}
+
+span{ font-weight: bold;}
+
+
+h1, h2 {background-color: rgb(204, 130, 19);
+        color: rgb(102, 48, 9);
+        opacity: 0.8;
+    
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+footer { background-color: rgb(217, 247, 47);
+    font-family: 'Roboto', sans-serif;}
+
